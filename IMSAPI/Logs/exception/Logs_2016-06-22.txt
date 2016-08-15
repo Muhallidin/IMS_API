@@ -1,0 +1,56 @@
+Time: 22/06/2016 10:47:29 AM
+-----------------------------------------------------------
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+-----------------------------------------------------------
+
+Time: 22/06/2016 10:50:05 AM
+-----------------------------------------------------------
+
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+
+-----------------------------------------------------------
+
+
+
+Time: 22/06/2016 10:56:19 AM
+-----------------------------------------------------------
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+-----------------------------------------------------------
+
+
+Time: 22/06/2016 10:59:43 AM
+-----------------------------------------------------------
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+-----------------------------------------------------------
+
+
+Time: 22/06/2016 11:01:06 PM
+-----------------------------------------------------------
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+-----------------------------------------------------------
+
+
+Time: 22/06/2016 11:01:06 PM
+-----------------------------------------------------------
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+-----------------------------------------------------------
+
+
+Time: 22/06/2016 11:04:44 PM
+-----------------------------------------------------------
+Message: <Error><Message>Authorization has been denied for this request.</Message></Error>
+-----------------------------------------------------------
+
+
+Time: 22/06/2016 11:08:29 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 22/06/2016 11:40:01 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+

@@ -1,0 +1,111 @@
+﻿
+<script type="text/javascript">
+
+    $(function () {
+
+//        var tokenresult;
+//        $('#invoiceDate').datepicker();
+
+//        var dbtoken = {
+
+//            "async": true,
+//            "crossDomain": true,
+//            "url": "http://localhost:52886/RESTService.svc/api/token",
+//            "method": "GET"
+//        }
+
+
+
+
+//        var url = '/Home/CreateInvoice';
+
+
+
+
+//        $.ajax(dbtoken).done(function (t_response) {
+
+//            tokenresult = JSON.stringify(t_response);
+//            console.log(tokenresult);
+//            var obj = jQuery.parseJSON(tokenresult);
+
+//            if (obj[0].AccesToken == "No Token") {
+
+//                getTocken(obj[0].AccesToken);
+
+//            }
+//        });
+        var url = '/ims/gettoken';
+        $.post(url, function (result) {
+            console.log(result);
+        });
+
+    });
+
+
+    function getTocken(val) {
+
+        var settings = {
+
+            "async": true,
+            "crossDomain": true,
+            "url": "https://uatrcclhrapi.brenock.com/token",
+            "method": "POST",
+
+            "headers": {
+                "content-type": "application/x-www-form-urlencoded",
+                "accept": "application/json",
+                "cache-control": "no-cache"
+            },
+
+            "data": {
+                "grant_type": "password",
+                "username": "testapiuser",
+                "password": "Testing123"
+            }
+
+
+
+        }
+
+        $.ajax(settings).done(function (response) {
+
+            Result = JSON.stringify(response);
+            console.log(response);
+            var noSense = JSON.stringify(Result);
+            var obj = jQuery.parseJSON(Result);
+
+            accToken = obj.access_token;
+            TokenType = obj.token_type;
+            Expired = obj.expires_in;
+            alert(response);
+            AddCredential();
+
+        }).error(function (res) {
+            console.log(res);
+
+        });
+
+    }
+
+    function AddCredential() {
+
+        var arrData = { Auth: auth, AccesToken: accToken, TokenType: TokenType, Expired: Expired, CreatedBy: CreatedBy };
+        $.ajax({
+            url: 'http://localhost:52886/RESTService.svc/api/Authentication',
+            data: arrData
+        });
+
+    }
+
+    function GetHeaderInvoice(branchid) {
+
+        var url = '/Home/HeaderInvoice';
+        var dt = $("#invoiceDate").val();
+        $.post(url, { branchid: branchid, dt: dt }, function (result) {
+//            $("#invoiceHeader").html(result);
+//            $("#divLoading").Hide();
+        });
+
+    }
+             
+    </script>

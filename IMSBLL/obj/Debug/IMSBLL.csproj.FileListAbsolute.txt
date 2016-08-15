@@ -1,0 +1,57 @@
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSBLL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSBLL.pdb
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSDAL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSDAL.pdb
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\obj\Debug\IMSBLL.csprojResolveAssemblyReference.cache
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\obj\Debug\IMSBLL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSBLL\obj\Debug\IMSBLL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSBLL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSBLL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSDAL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\obj\Debug\IMSBLL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\obj\Debug\IMSBLL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\obj\Debug\IMSBLL.csprojResolveAssemblyReference.cache
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\GitSharp.Core.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\GitSharp.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Winterdom.IO.FileMap.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\System.Net.Http.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\System.Net.Http.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSBLL\bin\Debug\Class\MultipleInvoice.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Class\MultipleInvoice.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\IMSBLL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\IMSBLL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\GitSharp.Core.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\GitSharp.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\IMSDAL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\System.Net.Http.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Winterdom.IO.FileMap.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\System.Net.Http.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\obj\Debug\IMSBLL.csprojResolveAssemblyReference.cache
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\obj\Debug\IMSBLL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\obj\Debug\IMSBLL.pdb

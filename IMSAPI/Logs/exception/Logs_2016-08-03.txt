@@ -1,0 +1,66 @@
+Time: 03/08/2016 12:42:28 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CH1001160000000002","VendorNumber":"897969","Errors":[{"ErrorMessage":"The Total Cost (69) on detail item [17] does not match the quantity * unit cost.","Type":"Validation"},{"ErrorMessage":"Invoice total does not match the sum of the invoice details.","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 02:30:51 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CH1001160000000002","VendorNumber":"897969","Errors":[{"ErrorMessage":"The Total Cost (69) on detail item [17] does not match the quantity * unit cost.","Type":"Validation"},{"ErrorMessage":"Invoice total does not match the sum of the invoice details.","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 02:44:48 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to serialize object","InvoiceNumber":null,"VendorNumber":null,"Errors":[{"ErrorMessage":"Unable to serialize object","Type":"Serialization"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 03:32:27 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to serialize object","InvoiceNumber":null,"VendorNumber":null,"Errors":[{"ErrorMessage":"Unable to serialize object","Type":"Serialization"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 03:34:37 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to serialize object","InvoiceNumber":null,"VendorNumber":null,"Errors":[{"ErrorMessage":"Unable to serialize object","Type":"Serialization"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 03:35:35 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to serialize object","InvoiceNumber":null,"VendorNumber":null,"Errors":[{"ErrorMessage":"Unable to serialize object","Type":"Serialization"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 03:38:33 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to serialize object","InvoiceNumber":null,"VendorNumber":null,"Errors":[{"ErrorMessage":"Unable to serialize object","Type":"Serialization"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 03:51:25 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CH1007210000000001","VendorNumber":"897969","Errors":[{"ErrorMessage":"This vendor does not have acccess to the port 1007","Type":"Mapping"},{"ErrorMessage":"The Total Cost (138) on detail item [1] does not match the quantity * unit cost.","Type":"Validation"},{"ErrorMessage":"Invoice total does not match the sum of the invoice details.","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 04:38:11 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CH1007210000000001","VendorNumber":"897969","Errors":[{"ErrorMessage":"This vendor does not have acccess to the port 1007","Type":"Mapping"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 05:57:42 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CH1007210000000001","VendorNumber":"897969","Errors":[{"ErrorMessage":"A duplicate Hotel Stay: Double Occupancy of 103.5 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).","Type":"Validation"},{"ErrorMessage":"A duplicate Meal: Sign On/Off Crew of 60 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: A duplicate Hotel Stay: Double Occupancy of 103.5 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).<br />A duplicate Meal: Sign On/Off Crew of 60 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).<br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 03/08/2016 06:03:20 PM
+-----------------------------------------------------------
+{"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CH1007210000000001","VendorNumber":"897969","Errors":[{"ErrorMessage":"A duplicate Hotel Stay: Double Occupancy of 103.5 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).","Type":"Validation"},{"ErrorMessage":"A duplicate Meal: Sign On/Off Crew of 60 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: A duplicate Hotel Stay: Double Occupancy of 103.5 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).<br />A duplicate Meal: Sign On/Off Crew of 60 was submitted on 2016-06-29 Submission # RAM20160622 for this crew member REYNAUD HID, LUCIA GUADALUPE (932776).<br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+

@@ -1,0 +1,78 @@
+Time: 27/06/2016 09:09:32 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:13:35 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:14:26 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:23:41 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:24:34 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:31:40 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:31:54 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:33:04 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:33:15 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:34:01 PM
+-----------------------------------------------------------
+Message: <InvoiceResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Success>false</Success><Message>Unable to create invoice. See errors</Message><InvoiceNumber>CREWHBOOK2</InvoiceNumber><VendorNumber>897969</VendorNumber><Errors><Error><ErrorMessage>Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 </ErrorMessage><Type>Validation</Type></Error><Error><ErrorMessage>Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 &lt;br /&gt;</ErrorMessage><Type>Validation</Type></Error></Errors></InvoiceResponse>
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:35:11 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:35:25 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+
+Time: 27/06/2016 09:45:16 PM
+-----------------------------------------------------------
+Message: {"Success":false,"Message":"Unable to create invoice. See errors","InvoiceNumber":"CREWHBOOK2","VendorNumber":"897969","Errors":[{"ErrorMessage":"Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 ","Type":"Validation"},{"ErrorMessage":"Invoice validation failed: Invoice Number was CREWHBOOK2 was already submitted on 2016-06-20 <br />","Type":"Validation"}]}
+-----------------------------------------------------------
+
+

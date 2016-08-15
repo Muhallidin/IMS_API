@@ -1,0 +1,15 @@
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\IMSDAL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\IMSDAL.pdb
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSDAL\obj\Debug\IMSDAL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSDAL\obj\Debug\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\IMSDAL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\obj\Debug\IMSDAL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\obj\Debug\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\GitSharp.Core.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\GitSharp.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\Winterdom.IO.FileMap.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\bin\Debug\Class\MultipleInvoice.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSDAL\obj\Debug\IMSDAL.csprojResolveAssemblyReference.cache

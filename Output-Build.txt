@@ -1,0 +1,15 @@
+﻿------ Rebuild All started: Project: IMSDAL, Configuration: Debug Any CPU ------
+  IMSDAL -> C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSDAL\bin\Debug\IMSDAL.dll
+------ Rebuild All started: Project: IMSBLL, Configuration: Debug Any CPU ------
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\Class\ProcessInvoices.cs(144,34): warning CS0618: 'System.Configuration.ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\Class\ProcessInvoices.cs(145,31): warning CS0618: 'System.Configuration.ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+
+Compile complete -- 0 errors, 2 warnings
+  IMSBLL -> C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSBLL\bin\Debug\IMSBLL.dll
+------ Rebuild All started: Project: IMSAPI, Configuration: Debug Any CPU ------
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\Controllers\SingleInvoiceController.cs(36,34): warning CS0618: 'System.Configuration.ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\Controllers\SingleInvoiceController.cs(37,31): warning CS0618: 'System.Configuration.ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+
+Compile complete -- 0 errors, 2 warnings
+  IMSAPI -> C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSAPI.dll
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========

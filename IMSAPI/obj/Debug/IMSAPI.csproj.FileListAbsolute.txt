@@ -1,0 +1,168 @@
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSAPI.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSAPI.pdb
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Antlr3.Runtime.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\EntityFramework.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Newtonsoft.Json.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.WebRequest.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Helpers.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Mvc.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Optimization.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Providers.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Razor.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\WebGrease.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\EntityFramework.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Newtonsoft.Json.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.WebRequest.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Helpers.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Mvc.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Razor.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\obj\Debug\IMSAPI.csprojResolveAssemblyReference.cache
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\obj\Debug\IMSAPI.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\obj\Debug\IMSAPI.pdb
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSBLL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSDAL.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSBLL.pdb
+C:\Users\Muhallidin Wali\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSAPI.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSAPI.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Antlr3.Runtime.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\EntityFramework.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSBLL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Newtonsoft.Json.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.WebRequest.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Helpers.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Mvc.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Optimization.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Providers.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Razor.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\WebGrease.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSDAL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSBLL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\EntityFramework.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Newtonsoft.Json.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Net.Http.WebRequest.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Helpers.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Mvc.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.Razor.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\obj\Debug\IMSAPI.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\obj\Debug\IMSAPI.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\obj\Debug\IMSAPI.csprojResolveAssemblyReference.cache
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\GitSharp.Core.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\GitSharp.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Tamir.SharpSSH.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Winterdom.IO.FileMap.dll
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\GenericCollection.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\GlobalCode.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\MultipleInvoice.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\InvoiceDetails.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\InvoiceHeader.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\SubmitInvoices.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Class\Token.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Controllers\SingleInvoiceController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Controllers\MultipleInvoiceController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Controllers\HomeController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS API\IMSAPI\bin\Controllers\tokenController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\GenericCollection.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\GlobalCode.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\MultipleInvoice.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\InvoiceDetails.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\InvoiceHeader.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\SubmitInvoices.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Class\Token.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Controllers\SingleInvoiceController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Controllers\MultipleInvoiceController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Controllers\HomeController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Controllers\tokenController.cs
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSAPI.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSAPI.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Antlr3.Runtime.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\EntityFramework.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\GitSharp.Core.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\GitSharp.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSBLL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Newtonsoft.Json.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Net.Http.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Net.Http.WebRequest.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Helpers.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Http.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Mvc.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Optimization.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Providers.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Razor.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.WebPages.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Tamir.SharpSSH.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\WebGrease.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Winterdom.IO.FileMap.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSDAL.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSBLL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\EntityFramework.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\Newtonsoft.Json.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Net.Http.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Net.Http.WebRequest.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Helpers.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Http.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Mvc.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.Razor.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.WebPages.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\bin\IMSDAL.pdb
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\obj\Debug\IMSAPI.csprojResolveAssemblyReference.cache
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\obj\Debug\IMSAPI.dll
+C:\Users\WALI\Desktop\IMS Project\IMS-API\IMSAPI\obj\Debug\IMSAPI.pdb
